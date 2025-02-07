@@ -3,14 +3,15 @@ def prove(exit_code: int):
     exit(exit_code)
 prove(1)
 """
-そうはない光景が
-そうはない鮮明な
+Mama, I'm chasin' a ghost
+I don't know who he is
+Mama, I'm chasin' a ghost
+I don't know where he is
+Mama, I'm chasin' a ghost
+Do I look like him? (Like what?)
+Like him (Like what?)
+Like him (Like what?)
+Like him (La-la-la-la)
 
-どうなったていいよ
-触る意味もないし
-
-いっちゃてもいいよ
-合わす意味もないし
-		
-	(с) MASS OF THE FERMENTING DREGS
+	(с) Tyler, The Creator
 """
