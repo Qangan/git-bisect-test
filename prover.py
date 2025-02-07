@@ -3,9 +3,11 @@ def prove(exit_code: int):
     exit(exit_code)
 prove(1)
 """
-Sigma, sigma boy, sigma boy, sigma boy
-Каждая девчонка хочет танцевать с тобой
-Sigma, sigma boy, sigma boy, sigma boy
-Я такая вся, что добиваться будешь год
-		(с) хз кто лол
+And I said (hey ay, ay)
+If crazy equals genius (hey ay, ay)
+If crazy equals genius
+Then I'm a fucking arsonist (hey)
+I'm a rocket scientist (hey hey)
+(Hey ay, ay)
+		(с) Panic! At the Disco
 """
