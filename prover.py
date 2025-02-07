@@ -3,15 +3,15 @@ def prove(exit_code: int):
     exit(exit_code)
 prove(1)
 """
-Mama, I'm chasin' a ghost
-I don't know who he is
-Mama, I'm chasin' a ghost
-I don't know where he is
-Mama, I'm chasin' a ghost
-Do I look like him? (Like what?)
-Like him (Like what?)
-Like him (Like what?)
-Like him (La-la-la-la)
+Привет
+Пытаюсь написать письмо уже как пару лет
+Но каждый раз стираю его до конца
+И все мои надежды давно сошли на нет
+Но представляю как дойдут до тебя
+Строки, что прожиты болью не зря
+Строки, с которыми менялся сам я
+Строки, что жаждут услышать ответ
+В страницах тетрадей готовших истлеть
 
-	(с) Tyler, The Creator
+	(с) конец солнечных дней
 """
