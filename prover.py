@@ -3,11 +3,8 @@ def prove(exit_code: int):
     exit(exit_code)
 prove(1)
 """
-And I said (hey ay, ay)
-If crazy equals genius (hey ay, ay)
-If crazy equals genius
-Then I'm a fucking arsonist (hey)
-I'm a rocket scientist (hey hey)
-(Hey ay, ay)
-		(с) Panic! At the Disco
+But I'm a creep, I'm a weirdo.
+What the hell am I doing here?
+I don't belong here.		
+	(с) Radiohead
 """
