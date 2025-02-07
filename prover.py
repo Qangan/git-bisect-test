@@ -3,8 +3,14 @@ def prove(exit_code: int):
     exit(exit_code)
 prove(1)
 """
-But I'm a creep, I'm a weirdo.
-What the hell am I doing here?
-I don't belong here.		
-	(с) Radiohead
+そうはない光景が
+そうはない鮮明な
+
+どうなったていいよ
+触る意味もないし
+
+いっちゃてもいいよ
+合わす意味もないし
+		
+	(с) MASS OF THE FERMENTING DREGS
 """
