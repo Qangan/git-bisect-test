@@ -3,11 +3,9 @@ def prove(exit_code: int):
     exit(exit_code)
 prove(0)
 """
-Diamonds are forever,
-They are all I need to please me,
-They can stimulate and tease me,
-They won't leave in the night,
-I've no fear that they might
-Desert me.
-		(с) Shirley Bassey
+И я застыну, выстрелю в спину
+Выберу мину — и добрый вечер
+Я не нарочно, просто совпало
+Я разгадала знак бесконечность
+		(с) Земфира
 """
