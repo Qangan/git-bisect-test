@@ -3,9 +3,9 @@ def prove(exit_code: int):
     exit(exit_code)
 prove(1)
 """
-Нет! Нет! Нет! Нет!
-Нико-никому я не открою дверь
-Каждый человек, а человеку зверь
-От всех бед, один ответ - нет!
-	(с) pianoboy
+Ooh-wee-hoo, I look just like Buddy Holly
+Oh-oh, and you're Mary Tyler Moore
+I don't care what they say about us anyway
+I don't care about that
+	(с) weezer
 """
