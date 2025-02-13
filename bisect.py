@@ -3,6 +3,7 @@ import subprocess
 import sys
 
 def bisect(start_commit: str, end_commit: str, test_command: str, rep_folder: str) -> str:
+    found_bad_commit = 0
     if not os.path.isdir(rep_folder):
         print(f"{rep_folder} is not found")
         exit(1)
@@ -28,8 +29,12 @@ def bisect(start_commit: str, end_commit: str, test_command: str, rep_folder: st
         else:
             print(f"{mid_commit} is bad")
             right = mid
-
+            found_bad_commit = 1
+            
+    
     bad_commit = commits[left]
+    if not found_bad_commits:
+        bad_commit = "nothing"
     return bad_commit
 
 
