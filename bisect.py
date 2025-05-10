@@ -33,7 +33,7 @@ def bisect(start_commit: str, end_commit: str, test_command: str, rep_folder: st
             
     
     bad_commit = commits[left]
-    if not found_bad_commits:
+    if not found_bad_commit:
         bad_commit = "nothing"
     return bad_commit
 
